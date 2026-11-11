@@ -1,2 +1,3 @@
 My Git Project
 Learning Git and GitHub
+Practicing version control
